@@ -6,3 +6,8 @@
 2025-01-19 14:33:49,615 - INFO - Request Method: GET, Path: /sanldfbaf
 2025-01-19 14:33:49,615 - INFO - Requested file: static\sanldfbaf
 2025-01-19 14:33:49,616 - ERROR - File not found: static\sanldfbaf
+2025-01-19 14:34:45,148 - INFO - Request Method: GET, Path: /sanldfbaf
+2025-01-19 14:34:45,148 - INFO - Requested file: static\sanldfbaf
+2025-01-19 14:34:45,149 - ERROR - File not found: static\sanldfbaf
+2025-01-19 14:35:06,043 - INFO - Request Method: GET, Path: /index.html
+2025-01-19 14:35:06,044 - INFO - Requested file: static\index.html
