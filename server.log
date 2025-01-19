@@ -1,0 +1,8 @@
+2025-01-19 14:33:23,979 - INFO - Server running on http://127.0.0.1:8888
+2025-01-19 14:33:37,277 - INFO - Request Method: GET, Path: /folder
+2025-01-19 14:33:37,277 - INFO - Requested file: static\folder
+2025-01-19 14:33:40,757 - INFO - Request Method: GET, Path: /index.html
+2025-01-19 14:33:40,758 - INFO - Requested file: static\index.html
+2025-01-19 14:33:49,615 - INFO - Request Method: GET, Path: /sanldfbaf
+2025-01-19 14:33:49,615 - INFO - Requested file: static\sanldfbaf
+2025-01-19 14:33:49,616 - ERROR - File not found: static\sanldfbaf
